@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\1000105766\\Desktop\\Clases Tec\\5to Semestre\\Estructuras\\Unidad 1\\ClasePila\\",
+  "WorkspaceRootPath": "C:\\Users\\1000105766\\Desktop\\Clases Tec\\5to Semestre\\Estructuras\\Unidad 1\\ClasePila_Trabajo-3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1552DB36-FDEB-44A1-8EB7-0E1F41E40502}|ClasePila\\ClasePila.csproj|c:\\users\\1000105766\\desktop\\clases tec\\5to semestre\\estructuras\\unidad 1\\clasepila\\clasepila\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1552DB36-FDEB-44A1-8EB7-0E1F41E40502}|ClasePila\\ClasePila.csproj|solutionrelative:clasepila\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C46F4CB5-A8FA-46A2-80BD-5668C59C7583}|ClasePila_Trabajo-3\\ClasePila_Trabajo-3.csproj|c:\\users\\1000105766\\desktop\\clases tec\\5to semestre\\estructuras\\unidad 1\\clasepila_trabajo-3\\clasepila_trabajo-3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C46F4CB5-A8FA-46A2-80BD-5668C59C7583}|ClasePila_Trabajo-3\\ClasePila_Trabajo-3.csproj|solutionrelative:clasepila_trabajo-3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,12 +32,12 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\1000105766\\Desktop\\Clases Tec\\5to Semestre\\Estructuras\\Unidad 1\\ClasePila\\ClasePila\\Form1.cs",
-              "RelativeDocumentMoniker": "ClasePila\\Form1.cs",
-              "ToolTip": "C:\\Users\\1000105766\\Desktop\\Clases Tec\\5to Semestre\\Estructuras\\Unidad 1\\ClasePila\\ClasePila\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ClasePila\\Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\1000105766\\Desktop\\Clases Tec\\5to Semestre\\Estructuras\\Unidad 1\\ClasePila_Trabajo-3\\ClasePila_Trabajo-3\\Form1.cs",
+              "RelativeDocumentMoniker": "ClasePila_Trabajo-3\\Form1.cs",
+              "ToolTip": "C:\\Users\\1000105766\\Desktop\\Clases Tec\\5to Semestre\\Estructuras\\Unidad 1\\ClasePila_Trabajo-3\\ClasePila_Trabajo-3\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ClasePila_Trabajo-3\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T02:16:34.858Z",
+              "WhenOpened": "2025-10-14T22:30:28.209Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
