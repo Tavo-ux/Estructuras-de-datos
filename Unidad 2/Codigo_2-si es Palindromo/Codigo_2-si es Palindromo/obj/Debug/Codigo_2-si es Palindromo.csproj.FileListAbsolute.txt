@@ -1,0 +1,7 @@
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 2\Codigo_2-si es Palindromo\Codigo_2-si es Palindromo\bin\Debug\Codigo_2-si es Palindromo.exe.config
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 2\Codigo_2-si es Palindromo\Codigo_2-si es Palindromo\bin\Debug\Codigo_2-si es Palindromo.exe
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 2\Codigo_2-si es Palindromo\Codigo_2-si es Palindromo\bin\Debug\Codigo_2-si es Palindromo.pdb
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 2\Codigo_2-si es Palindromo\Codigo_2-si es Palindromo\obj\Debug\Codigo_2-si es Palindromo.csproj.AssemblyReference.cache
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 2\Codigo_2-si es Palindromo\Codigo_2-si es Palindromo\obj\Debug\Codigo_2-si es Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 2\Codigo_2-si es Palindromo\Codigo_2-si es Palindromo\obj\Debug\Codigo_2-si es Palindromo.exe
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 2\Codigo_2-si es Palindromo\Codigo_2-si es Palindromo\obj\Debug\Codigo_2-si es Palindromo.pdb
