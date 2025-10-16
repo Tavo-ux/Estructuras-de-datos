@@ -1,0 +1,7 @@
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 2\Codigo_1_Verivicar_[]()\Codigo_1_Verivicar_[]()\bin\Debug\Codigo_1_Verivicar_[]().exe.config
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 2\Codigo_1_Verivicar_[]()\Codigo_1_Verivicar_[]()\bin\Debug\Codigo_1_Verivicar_[]().exe
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 2\Codigo_1_Verivicar_[]()\Codigo_1_Verivicar_[]()\bin\Debug\Codigo_1_Verivicar_[]().pdb
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 2\Codigo_1_Verivicar_[]()\Codigo_1_Verivicar_[]()\obj\Debug\Codigo_1_Verivicar_[]().csproj.AssemblyReference.cache
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 2\Codigo_1_Verivicar_[]()\Codigo_1_Verivicar_[]()\obj\Debug\Codigo_1_Verivicar_[]().csproj.CoreCompileInputs.cache
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 2\Codigo_1_Verivicar_[]()\Codigo_1_Verivicar_[]()\obj\Debug\Codigo_1_Verivicar_[]().exe
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 2\Codigo_1_Verivicar_[]()\Codigo_1_Verivicar_[]()\obj\Debug\Codigo_1_Verivicar_[]().pdb
