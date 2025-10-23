@@ -24,6 +24,7 @@ namespace Codigo_2_si_es_Palindromo
 
             Console.WriteLine("Presione una tecla para salir");
             Console.ReadKey();
+
         }
 
         static bool InvertirCadena(string Cadena)
