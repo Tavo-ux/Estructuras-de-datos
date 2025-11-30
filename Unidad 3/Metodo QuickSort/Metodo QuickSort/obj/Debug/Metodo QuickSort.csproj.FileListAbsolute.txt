@@ -1,0 +1,7 @@
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo QuickSort\Metodo QuickSort\bin\Debug\Metodo QuickSort.exe.config
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo QuickSort\Metodo QuickSort\bin\Debug\Metodo QuickSort.exe
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo QuickSort\Metodo QuickSort\bin\Debug\Metodo QuickSort.pdb
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo QuickSort\Metodo QuickSort\obj\Debug\Metodo QuickSort.csproj.AssemblyReference.cache
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo QuickSort\Metodo QuickSort\obj\Debug\Metodo QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo QuickSort\Metodo QuickSort\obj\Debug\Metodo QuickSort.exe
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo QuickSort\Metodo QuickSort\obj\Debug\Metodo QuickSort.pdb
