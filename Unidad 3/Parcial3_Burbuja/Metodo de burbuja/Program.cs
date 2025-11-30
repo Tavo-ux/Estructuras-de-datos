@@ -8,115 +8,72 @@ namespace Metodo_de_burbuja
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("=== ALGORITMO DE ORDENAMIENTO BURBUJA ===");
-            Console.WriteLine("Ingrese los números manualmente para ordenar\n");
+            Console.WriteLine("=== ORDENAMIENTO BURBUJA ===");
 
-            IngresarYOrdenarArray();
+            // Solicitar números al usuario
+            int[] numeros = SolicitarNumeros();
 
-            Console.WriteLine("\nPresione cualquier tecla para salir...");
-            Console.ReadKey();
+            if (numeros.Length == 0)
+            {
+                Console.WriteLine("No se ingresaron números.");
+                return;
+            }
+
+            Console.WriteLine($"\nArreglo original: [{string.Join(", ", numeros)}]");
+
+            // Ordenar con burbuja
+            Burbuja(numeros);
+
+            Console.WriteLine($"Arreglo ordenado: [{string.Join(", ", numeros)}]");
         }
 
-        // MÉTODO BURBUJA CORREGIDO
+        static int[] SolicitarNumeros()
+        {
+            Console.WriteLine("\nIngrese los números separados por espacios:");
+            Console.Write("→ ");
+
+            string entrada = Console.ReadLine();
+            string[] partes = entrada.Split();
+
+            List<int> numeros = new List<int>();
+
+            foreach (string parte in partes)
+            {
+                if (int.TryParse(parte, out int numero))
+                    numeros.Add(numero);
+            }
+
+            return numeros.ToArray();
+        }
+
         static void Burbuja(int[] arreglo)
         {
-            Console.WriteLine("\n--- INICIANDO ORDENAMIENTO BURBUJA ---");
+            int temp;
+            bool ordenado;
 
-            // Paso 1: Inicialización
-            int k = arreglo.Length - 1;
-            bool cambio = true;
-            int iteraciones = 0;
-
-            Console.WriteLine($"Array a ordenar: [{string.Join(", ", arreglo)}]");
-            Console.WriteLine($"Tamaño del array: {arreglo.Length}");
-            Console.WriteLine($"K inicial: {k}");
-
-            // Paso 2: Bucle externo
-            while (cambio)
+            for (int i = 0; i < arreglo.Length - 1; i++)
             {
-                iteraciones++;
-                cambio = false;
+                ordenado = true;
 
-                Console.WriteLine($"\n--- Iteración #{iteraciones} (comparando {k} elementos) ---");
-
-                // Paso 3: Bucle interno
-                for (int j = 0; j < k; j++)
+                for (int j = 0; j < arreglo.Length - i - 1; j++)
                 {
-                    bool esMayor = arreglo[j] > arreglo[j + 1];
-                    Console.Write($"  [{j}]:{arreglo[j]} > [{j + 1}]:{arreglo[j + 1]} = {esMayor}");
-
-                    if (esMayor)
+                    if (arreglo[j] > arreglo[j + 1])
                     {
-                        // Paso 4: Intercambio
-                        int temp = arreglo[j];
+                        // Intercambiar
+                        temp = arreglo[j];
                         arreglo[j] = arreglo[j + 1];
                         arreglo[j + 1] = temp;
-                        cambio = true;
-
-                        Console.WriteLine(" ✓ INTERCAMBIO");
-                        Console.WriteLine($"    Array actual: [{string.Join(", ", arreglo)}]");
-                    }
-                    else
-                    {
-                        Console.WriteLine(" - NO intercambia");
+                        ordenado = false;
                     }
                 }
 
-                // Reducir K para optimizar
-                k--;
+                // Si ya está ordenado, terminar
+                if (ordenado) break;
             }
 
-            Console.WriteLine($"\n--- ORDENAMIENTO COMPLETADO ---");
-            Console.WriteLine($"Total de iteraciones: {iteraciones}");
-        }
-
-        static void IngresarYOrdenarArray()
-        {
-            Console.WriteLine("Ingrese los números separados por comas (ej: 5,2,8,1,9):");
-            Console.Write(">> ");
-
-            string input = Console.ReadLine();
-
-            try
-            {
-                if (string.IsNullOrWhiteSpace(input))
-                {
-                    Console.WriteLine("Error: No se ingresaron números.");
-                    return;
-                }
-
-                // Convertir input a array de números
-                int[] arreglo = input.Split(',')
-                    .Select(x => int.Parse(x.Trim()))
-                    .ToArray();
-
-                if (arreglo.Length == 0)
-                {
-                    Console.WriteLine("Error: El array está vacío.");
-                    return;
-                }
-
-                Console.WriteLine($"\n✅ Array ingresado correctamente:");
-                Console.WriteLine($"[{string.Join(", ", arreglo)}]");
-
-                // Aplicar algoritmo de burbuja
-                Burbuja(arreglo);
-
-                // Mostrar resultado final
-                Console.WriteLine($"\n🎯 RESULTADO FINAL ORDENADO:");
-                Console.WriteLine($"[{string.Join(", ", arreglo)}]");
 
             }
-            catch (FormatException)
-            {
-                Console.WriteLine("Error: Asegúrese de ingresar solo números separados por comas.");
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine($"Error: {ex.Message}");
-            }
-        }
     }
 }

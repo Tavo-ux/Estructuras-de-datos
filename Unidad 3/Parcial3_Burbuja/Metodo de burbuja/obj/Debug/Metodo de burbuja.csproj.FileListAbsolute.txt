@@ -5,3 +5,10 @@ C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo 
 C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo de burbuja\Metodo de burbuja\obj\Debug\Metodo de burbuja.csproj.CoreCompileInputs.cache
 C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo de burbuja\Metodo de burbuja\obj\Debug\Metodo de burbuja.exe
 C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo de burbuja\Metodo de burbuja\obj\Debug\Metodo de burbuja.pdb
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Parcial3_Burbuja\Metodo de burbuja\bin\Debug\Metodo de burbuja.exe.config
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Parcial3_Burbuja\Metodo de burbuja\bin\Debug\Metodo de burbuja.exe
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Parcial3_Burbuja\Metodo de burbuja\bin\Debug\Metodo de burbuja.pdb
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Parcial3_Burbuja\Metodo de burbuja\obj\Debug\Metodo de burbuja.csproj.AssemblyReference.cache
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Parcial3_Burbuja\Metodo de burbuja\obj\Debug\Metodo de burbuja.csproj.CoreCompileInputs.cache
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Parcial3_Burbuja\Metodo de burbuja\obj\Debug\Metodo de burbuja.exe
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Parcial3_Burbuja\Metodo de burbuja\obj\Debug\Metodo de burbuja.pdb
