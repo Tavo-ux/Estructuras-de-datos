@@ -1,0 +1,7 @@
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo insercion\Metodo insercion\bin\Debug\Metodo insercion.exe.config
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo insercion\Metodo insercion\bin\Debug\Metodo insercion.exe
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo insercion\Metodo insercion\bin\Debug\Metodo insercion.pdb
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo insercion\Metodo insercion\obj\Debug\Metodo insercion.csproj.AssemblyReference.cache
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo insercion\Metodo insercion\obj\Debug\Metodo insercion.csproj.CoreCompileInputs.cache
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo insercion\Metodo insercion\obj\Debug\Metodo insercion.exe
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo insercion\Metodo insercion\obj\Debug\Metodo insercion.pdb

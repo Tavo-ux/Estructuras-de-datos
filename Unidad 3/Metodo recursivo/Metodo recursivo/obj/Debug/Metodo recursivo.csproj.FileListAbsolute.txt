@@ -1,0 +1,7 @@
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo recursivo\Metodo recursivo\bin\Debug\Metodo recursivo.exe.config
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo recursivo\Metodo recursivo\bin\Debug\Metodo recursivo.exe
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo recursivo\Metodo recursivo\bin\Debug\Metodo recursivo.pdb
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo recursivo\Metodo recursivo\obj\Debug\Metodo recursivo.csproj.AssemblyReference.cache
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo recursivo\Metodo recursivo\obj\Debug\Metodo recursivo.csproj.CoreCompileInputs.cache
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo recursivo\Metodo recursivo\obj\Debug\Metodo recursivo.exe
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo recursivo\Metodo recursivo\obj\Debug\Metodo recursivo.pdb

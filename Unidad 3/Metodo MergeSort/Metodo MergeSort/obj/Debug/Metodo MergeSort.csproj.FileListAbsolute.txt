@@ -1,0 +1,7 @@
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo MergeSort\Metodo MergeSort\bin\Debug\Metodo MergeSort.exe.config
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo MergeSort\Metodo MergeSort\bin\Debug\Metodo MergeSort.exe
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo MergeSort\Metodo MergeSort\bin\Debug\Metodo MergeSort.pdb
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo MergeSort\Metodo MergeSort\obj\Debug\Metodo MergeSort.csproj.AssemblyReference.cache
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo MergeSort\Metodo MergeSort\obj\Debug\Metodo MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo MergeSort\Metodo MergeSort\obj\Debug\Metodo MergeSort.exe
+C:\Users\1000105766\Desktop\Clases Tec\5to Semestre\Estructuras\Unidad 3\Metodo MergeSort\Metodo MergeSort\obj\Debug\Metodo MergeSort.pdb
